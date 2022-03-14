@@ -1,6 +1,6 @@
-package level_02;
+package level_01;
 
-public class _01_Find_Middle_From_3_Numbers {
+public class _06_Find_Middle_From_3_Numbers {
     /*
     Write a method that takes 3 int arguments and returns the middle number
     NOTE: 2 or 3 numbers being same is okay
