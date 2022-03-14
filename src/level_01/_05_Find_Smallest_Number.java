@@ -1,6 +1,6 @@
 package level_01;
 
-public class _02_Find_Smallest_Number {
+public class _05_Find_Smallest_Number {
     /*
     METHOD-1 -> findSmallestOf2Numbers1
     Write a method that takes 2 int arguments and returns the smallest number

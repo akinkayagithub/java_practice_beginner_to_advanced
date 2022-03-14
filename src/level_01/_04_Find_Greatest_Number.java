@@ -1,6 +1,6 @@
 package level_01;
 
-public class _01_Find_Greatest_Number {
+public class _04_Find_Greatest_Number {
     /*
     METHOD-1 -> findGreatestOf2Numbers1
     Write a method that takes 2 int arguments and returns the greatest number
