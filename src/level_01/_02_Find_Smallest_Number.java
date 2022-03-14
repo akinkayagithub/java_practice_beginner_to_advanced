@@ -5,8 +5,10 @@ public class _02_Find_Smallest_Number {
     METHOD-1 -> findSmallestOf2Numbers1
     Write a method that takes 2 int arguments and returns the smallest number
     NOTE: 2 numbers being same is okay
+
     TEST DATA:
     1, 7
+
     EXPECTED OUTPUT:
     1
      */
@@ -21,8 +23,10 @@ public class _02_Find_Smallest_Number {
     METHOD-2 -> findSmallestOf2Numbers2
     Write a method that takes 2 int arguments and returns the smallest number
     NOTE: 2 numbers being same is okay
+
     TEST DATA:
     1, 7
+
     EXPECTED OUTPUT:
     1
      */
@@ -38,8 +42,10 @@ public class _02_Find_Smallest_Number {
     METHOD-3 -> findSmallestOf3Numbers1
     Write a method that takes 3 int arguments and returns the smallest number
     NOTE: 2 or 3 numbers being same is okay
+
     TEST DATA:
     1, 1, 7
+
     EXPECTED OUTPUT:
     1
      */
@@ -54,8 +60,10 @@ public class _02_Find_Smallest_Number {
     METHOD-4 -> findSmallestOf3Numbers2
     Write a method that takes 3 int arguments and returns the smallest number
     NOTE: 2 or 3 numbers being same is okay
+
     TEST DATA:
     1, 1, 7
+
     EXPECTED OUTPUT:
     1
      */

@@ -5,8 +5,10 @@ public class _01_Find_Greatest_Number {
     METHOD-1 -> findGreatestOf2Numbers1
     Write a method that takes 2 int arguments and returns the greatest number
     NOTE: 2 numbers being same is okay
+
     TEST DATA:
     3, 5
+
     EXPECTED OUTPUT:
     5
      */
@@ -21,8 +23,10 @@ public class _01_Find_Greatest_Number {
     METHOD-2 -> findGreatestOf2Numbers2
     Write a method that takes 2 int arguments and returns the greatest number
     NOTE: 2 numbers being same is okay
+
     TEST DATA:
     3, 5
+
     EXPECTED OUTPUT:
     5
      */
@@ -38,8 +42,10 @@ public class _01_Find_Greatest_Number {
     METHOD-3 -> findGreatestOf3Numbers1
     Write a method that takes 3 int arguments and returns the greatest number
     NOTE: 2 or 3 numbers being same is okay
+
     TEST DATA:
     3, 3, 5
+
     EXPECTED OUTPUT:
     5
      */
@@ -54,8 +60,10 @@ public class _01_Find_Greatest_Number {
     METHOD-4 -> findGreatestOf3Numbers2
     Write a method that takes 3 int arguments and returns the greatest number
     NOTE: 2 or 3 numbers being same is okay
+
     TEST DATA:
     3, 3, 5
+
     EXPECTED OUTPUT:
     5
      */
