@@ -60,7 +60,7 @@ public class _01_Find_Greatest_Number {
     5
      */
 
-    // Use Math.max() method to find max value of 3 int variables as below
+    // Use if else statements to find max value of 3 int variables as below
     public static int findGreatestOf3Numbers2(int a, int b, int c){
         if(a >= b && a >= c) return a;
         else if(b >= a && b >= c) return b;
