@@ -1,6 +1,6 @@
 package level_02;
 
-public class _02_Reverse_String {
+public class _01_Reverse_String {
     /*
     Write a method that takes a String and returns reversed String
 
