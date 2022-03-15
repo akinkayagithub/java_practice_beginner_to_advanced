@@ -19,7 +19,7 @@ public class _03_Find_If_Number_Is_Even_Or_Odd {
 
 
     /*
-    METHOD-1 -> isOdd
+    METHOD-2 -> isOdd
     Write a method that takes an int argument and returns true if it is an odd number
     and returns false if it is an even number
 
