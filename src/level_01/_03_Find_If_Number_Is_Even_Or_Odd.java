@@ -37,9 +37,11 @@ public class _03_Find_If_Number_Is_Even_Or_Odd {
 
     //Testing method
     public static void main(String[] args) {
+        System.out.println("\n---------Testing isEven method---------\n");
         System.out.println(isEven(4)); // true
         System.out.println(isEven(3)); // false
 
+        System.out.println("\n---------Testing isOdd method---------\n");
         System.out.println(isOdd(3)); // true
         System.out.println(isOdd(4)); // false
     }

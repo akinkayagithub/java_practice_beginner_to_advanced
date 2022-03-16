@@ -54,14 +54,17 @@ public class _02_Find_If_Number_Is_Positive_Negative_Or_Zero {
 
     //Testing method
     public static void main(String[] args) {
+        System.out.println("\n---------Testing isPositive method---------\n");
         System.out.println(isPositive(5)); // true
         System.out.println(isPositive(0)); // false
         System.out.println(isPositive(-5)); // false
 
+        System.out.println("\n---------Testing isNegative method---------\n");
         System.out.println(isNegative(-1)); // true
         System.out.println(isNegative(0)); // false
         System.out.println(isNegative(1)); // false
 
+        System.out.println("\n---------Testing isZero method---------\n");
         System.out.println(isZero(0)); //
         System.out.println(isZero(3)); // false
         System.out.println(isZero(-3)); // false
