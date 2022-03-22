@@ -1,6 +1,6 @@
 package level_02;
 
-public class _04_Counting_Characters_In_An_Char_Array {
+public class _04_Counting_Characters_In_A_Char_Array {
     /*
     METHOD-1 countLetters
     Write a method that takes a char array argument and returns the total occurrences of letter elements in the array as an int
