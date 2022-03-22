@@ -122,8 +122,6 @@ public class _02_Counting_Characters_In_A_String {
     }
 
 
-
-
     //Testing method
     public static void main(String[] args) {
         System.out.println("\n---------Testing countSpaces method---------\n");
