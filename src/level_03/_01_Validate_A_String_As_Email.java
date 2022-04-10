@@ -23,10 +23,16 @@ public class _01_Validate_A_String_As_Email {
 
     //TESTING METHODS:
     public static void main(String[] args) {
-
-
-
-
+        System.out.println(validateEmail("")); // false
+        System.out.println(validateEmail("johndoe")); // false
+        System.out.println(validateEmail("johhdoe@gmail")); // false
+        System.out.println(validateEmail("johhdoe@gmail.")); // false
+        System.out.println(validateEmail("johhdoe@gmail.c")); // false
+        System.out.println(validateEmail("johhdoe@g.com")); // false
+        System.out.println(validateEmail("j@gmail.com")); // false
+        System.out.println(validateEmail("@gmail.com")); // false
+        System.out.println(validateEmail("a@b.c")); // false
+        System.out.println(validateEmail("abc@gmail.com")); // true
 
 
     }
